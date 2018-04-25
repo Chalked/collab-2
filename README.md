@@ -7,5 +7,10 @@
 7. Once final push is done, submit link to this repo.
 
 ## Tasks
+You should create a new CSS file. Link to it from one of your HTML files:
+ - Savannah created a new CSS file and linked to it from about.html.
+
+ 
+
 
 
