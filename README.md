@@ -18,5 +18,8 @@ You should create a new directory. Move at least one file into that directory.
  - Savannah created bio.html
  - Savannah linked to bio.html from index.html
 
+ You should edit an HTML file. Add a paragraph about something you like.
+  - Zack edited index.html; added paragraph about the beach. 
+
 
 
