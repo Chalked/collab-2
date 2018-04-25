@@ -10,7 +10,9 @@
 You should create a new CSS file. Link to it from one of your HTML files:
  - Savannah created a new CSS file and linked to it from about.html.
 
- 
+You should create a new directory. Move at least one file into that directory.
+ - Zack created /public
+ - Zack moved app.css into /public
 
 
 
