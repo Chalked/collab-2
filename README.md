@@ -14,5 +14,9 @@ You should create a new directory. Move at least one file into that directory.
  - Zack created /public
  - Zack moved app.css into /public
 
+ You should create a new HTML file. Link to it from index.html:
+ - Savannah created bio.html
+ - Savannah linked to bio.html from index.html
+
 
 
