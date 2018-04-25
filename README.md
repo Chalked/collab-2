@@ -21,5 +21,8 @@ You should create a new directory. Move at least one file into that directory.
  You should edit an HTML file. Add a paragraph about something you like.
   - Zack edited index.html; added paragraph about the beach. 
 
+You should remove a file other than index.html:
+ - Savannah removed about.html
+
 
 
